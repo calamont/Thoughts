@@ -1,6 +1,6 @@
 # A Roll of Dice
 
-![](blog_articles/images/dice_ticker.jpeg)
+![](../images/dice_ticker.jpeg)
 
 Luck is common to all. While we curse our misfortune when it works against us, it mostly hides in a cognitive blind spot for the remainder of our experiences. It shouldn’t, for we essentially have no control over this world around us. It sound’s rather bleak to strip away all sense of freedom and autonomy. Yes, you think you have control, how could you not. You chose what discipline to study at university, you chose the colour of your car, you chose how your eggs were to be prepared for brunch. What is life but a stream of choices? And surely our lives are simply a culmination of those choices. But we do not live in isolated bubbles. Our wealth, our status, our being comes about through the functioning of the society in which we are members. Therefore, these measures of identity arise only after countless interactions of (mostly) self-serving agents, the majority of which are completely unaware of your existence. How much control does one have over this?
 

@@ -1,6 +1,6 @@
 # Technobablyon
 
-![](circuit.jpeg)
+![](../images/circuit.jpeg)
 
 Over its turbulent years, the 20th century yielded a number of technological breakthroughs which laid bare a new paradigm for the next millennium. Here the brute power of mechanical automatons found competition in the more nuanced comprehension of information theory and computation. The gestation of these concepts eventually yielded a new model for sharing information and birthed the internet, a final gift to the new world ahead. Each of the steps leading to this moment relied on significant technological achievements. The work of Alan Turing and Claude Shannon helped formalise the modern idea of a computer and its universal potential. Equally necessary was the translation of its early mechanical inception to a digital, semiconductor composition, owed largely to the work at AT&T Bell labs (of which Claude Shannon also happened to be an employee). From here, several companies, such as Fairchild Semiconductor and Texas Instruments, skilfully wove these single transistors into a tapestry of integrated circuits, seemingly capable of much more than the simple boolean algebra on which they were operating. Up until this point in the story, what one would consider “tech" is largely forged in the disciplines of science, engineering and mathematics. Any advancement relied heavily on expertise in these fields and all those participating were of the same ilk.
 

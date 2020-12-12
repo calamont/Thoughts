@@ -1,6 +1,6 @@
 # Switching Seasons
 
-![](forest.jpeg)
+![](images/forest.jpeg)
 
 One of my favourite periods of each year is the shift in weather found at the beginning of Spring and Autumn. There is something invigorating about change, though perhaps this is more an opinion largely held by me (and maybe explaining why I’ve lived abroad a couple of times). I know others who would prefer it to be Summer 12 months of the year. Yes, summer is more practical, and we all like some gorgeous weather, however, as I’ve written before, we quickly acclimatise to our surroundings. After 3 months of heat, a sunny day doesn’t pack quite the same punch as it did previously, leaving me wanting something a little more.. complex. 
 

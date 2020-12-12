@@ -1,6 +1,6 @@
 # Our Resilient Minds
 
-![](../images/neurons.jpeg)
+![](images/neurons.jpeg)
 
 You’ve come to a fork in the road. Both routes lead home, though you’re in no hurry, with it being a sunny day and the whole afternoon clear. In one universe, you swing left, along the bustling high street, taking the view of the shop fronts in your stride. Your good mood and optimism catches you off guard and, the figure noticed for this week’s Lotto winnings encourages you to splurge on a ticket. (If the reader could kindly suspend their disbelief for the remaining paragraph) Against all odds, you win the $6 million jackpot. However, in another universe, oblivious to the potential future gains tied to the decision before you, you swing right. Your good mood, optimism and blaring earphones have left you unmindful of the surrounding terrain, causing you to misstep and careen down a small, yet significant, stairwell. A fracture to the femur and hip, a permanent limp and prolonged rehabilitation follows.
 

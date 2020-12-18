@@ -1,4 +1,5 @@
 # In Defence of Dogs
+<time datetime="2016-02-20 07:00">20th Feb 2016</time>
 
 This is going to be about Dogs. Dogs, and in a big bad way. The aim is to, more or less, empirically prove that dogs are the best pet/nonhuman companion you can have. No subjectivity required here. If you prefer cats, great. But you’re wrong. Now if you’re curious why, please read on. If you plan on just having a rant at me for being completely biased, partial, skewed and cherry picking arguments, your comments will fall on stubbornly deaf ears.
 

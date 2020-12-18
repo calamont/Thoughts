@@ -1,4 +1,5 @@
 # A Roll of Dice
+<time datetime="2017-07-30 07:00">30th July 2017</time>
 
 ![](images/dice_ticker.jpeg)
 

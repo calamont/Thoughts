@@ -1,4 +1,5 @@
 # Questioning our choices
+<time datetime="2016-09-29 07:00">29th August 2016</time>
 
 A unifying concept between neuroscience and physics is how the great questions in each field boldly attempt to unravel the mystery and fundamental nature of reality. Of course the routes follow divergent paths, with physics focusing on the externalities, such as what is time, space, matter and how did it all begin, while neuroscience has internalised the problem. What is free will? What is consciousness? Do they really exist and, if so, how could either arise from a complex, yet conceptually simple interconnection of nerve cells? And similarly in both fields we are still quite a distance from any satisfying answers. To some, these quandaries about our minds may appear academic. Indeed, from our subjective experience, the idea of free will and consciousness are self-evident. How could they not exist? Though these topics are somewhat intertwined, the arguments countering each are worthy of their own discussion. For today, that discussion will be limited to free will. 
 

@@ -1,4 +1,5 @@
 # Biases and Beliefs
+<time datetime="2016-12-18 07:00">18th Dec 2016</time>
 
 Prior to the development of the scientific method, humans were largely guided in their actions by customs, traditions and intuitions. The initial inception of ritualistic practices within hunter-gatherer societies provided a means through which knowledge and understanding of the land could be passed forward through generations. As societies grew in size and complexity, so too did these forms of teachings, culminating in some of the more well known theologies of today: Judaism, Islam and Christianity. Less focused on the land itself, the lessons contained within these holy documents put more consideration towards interactions with neighbours and a general framework for the community. It is unfair to uniformly condemn religion as without intellectual rigour, however, the interpretive nature of the material, in conjunction with the zealous following it entails, clearly can be an incendiary combination. The prescription of religion has provided a mixed result for humanity, offering both the enlightenment of the Islamic Golden Age and the brutal ignorance of the Dark Ages.
 
